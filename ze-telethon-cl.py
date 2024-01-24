@@ -52,13 +52,13 @@ try:
         user_bot = data['user_bot']
         id_bot = data['id_bot']
 except FileNotFoundError:
-    api_id = '25281175'
-    api_hash = '6d99cb2b60a2c519fc1f99bd19565730'
-    bot_token = '6635986173:AAEBuYxPVay10-qYXqrIlXj7Fyr8syQK7jM'
-    DEVLOO = '6581896306'
+    api_id = '28627637'
+    api_hash = '3df9fa0c1da247d016c4cb238ceb1a70'
+    bot_token = '6600468880:AAEV-1DvEFsPpb7TlEd_G4sdU8f0vdwi_eo'
+    DEVLOO = '6449831912'
     MAX_ACCOUNTS = int('30')
-    user_bot = 'ee0obot'
-    id_bot = int('6635986173')
+    user_bot = 'pwpwfffcontrol_bot'
+    id_bot = int('6600468880')
     
     data = {
         'api_id': api_id,
