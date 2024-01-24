@@ -54,11 +54,11 @@ try:
 except FileNotFoundError:
     api_id = '28627637'
     api_hash = '3df9fa0c1da247d016c4cb238ceb1a70'
-    bot_token = '6600468880:AAEV-1DvEFsPpb7TlEd_G4sdU8f0vdwi_eo'
+    bot_token = '6332626549:AAFJdd3M34HGZuA6iL2l9E8tz1TveSwYFdE'
     DEVLOO = '6449831912'
-    MAX_ACCOUNTS = int('30')
-    user_bot = 'pwpwfffcontrol_bot'
-    id_bot = int('6600468880')
+    MAX_ACCOUNTS = int('20')
+    user_bot = 'kjljkjkjk_bot'
+    id_bot = int('6332626549')
     
     data = {
         'api_id': api_id,
